@@ -1,0 +1,15 @@
+.math-bg {
+  position: fixed;
+  inset: 0;
+  font-family: 'Courier New', monospace;
+  font-size: 1rem;
+  line-height: 2.1;
+  color: rgba(100, 160, 255, 0.14);
+  overflow: hidden;
+  word-break: break-all;
+  padding: 12px;
+  pointer-events: none;
+  user-select: none;
+  z-index: 0;
+  letter-spacing: 4px;
+}
