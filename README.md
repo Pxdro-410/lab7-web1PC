@@ -3,6 +3,9 @@
 
 Calculadora web desarrollada como parte del Lab 7 del curso de Desarrollo Web. Implementada con React + TypeScript, enfocada en diseño de componentes, testing y linting.
 
+**link del deploy:** http://35.255.29.219/lab7web-pc/
+(esta en un servidor compartido ya que el de la clase esta caído en el momento de la entrega)
+
 ---
 
 ## Tecnologías utilizadas
@@ -23,7 +26,7 @@ primero se debe clonar el repositorio
 
 ```bash
 git clone https://github.com/Pxdro-410/lab7-web1PC.git
-cd calculadora-lab7web
+cd lab7-web1PC
 ```
 
 ### Instalar dependencias
@@ -146,9 +149,9 @@ El proyecto usa ESLint con las siguientes reglas custom:
 ---
 
 ## puntaje esperado
-135/150
-dado que no se cumplió el siguiente requisito: (5 puntos) Por no utilizar node ni npm como su package manager (deben comittear su lockfile)
-adicional a los puntos subjetivos se estima un 10/20 por diseño
+**135/150** 
+- Dado que no se cumplió el siguiente requisito: (5 puntos) Por no utilizar node ni npm como su package manager (deben comittear su lockfile)
+- Adicionalmente, se debe tomar en cuenta que son 20 de puntos subjetivos (en este caso se tomó 10/20 para calcular el estimado)
 
 ## muestras de funcionamiento
 <img width="1001" height="328" alt="image" src="https://github.com/user-attachments/assets/11894349-06a4-4086-8128-e6a224b741a7" />
